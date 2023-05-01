@@ -1,7 +1,6 @@
 # Augmented Reality (ARena)
 
-### Daniel Verdejo
-3rd Year Under grad project using Unity 3d Engine, and C# to build a markerless augmented reality application
+
 
 ## Project summary
 
@@ -12,7 +11,7 @@ The idea of the application is simple enough, the user must survive for as long 
 
 ###### Supported Platforms
 
-1. Android (6.0 Marshmallow or greater)[Play Store](https://play.google.com/store/apps/details?id=com.DanielVerdejo.ArTest)
+1. Android (6.0 Marshmallow or greater)[Play Store]()
 2. Windows 10 mobile devices. 
 3. The application will need minor additions, & adjustments in order to run on iOS devices.
 
